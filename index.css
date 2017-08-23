@@ -2,8 +2,11 @@ body {
 	background-color: #000000
 }
 
-.container {
-	align-content: center;
+.title {
+	text-align: center;
+	color: white;
+	margin-top: 50px;
+	margin-bottom: 50px;
 }
 
 .jumbotron {
@@ -13,6 +16,7 @@ body {
 	align-content: center;
 	left: 50%;
 	right: 50%;
+	margin: auto;
 }
 
 .Calculator-container {
